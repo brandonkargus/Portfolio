@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandonkargus
-- 👀 I’m interested in ... gaining enough knowledge in programming to be employable
-- 🌱 I’m currently learning ... Java 11/17, SQL, Spring Framework
+- 👀 I’m interested in ... becoming a backend software engineer
+- 🌱 I’m currently learning ... Java 11/17, PostgreSQL, Spring Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
