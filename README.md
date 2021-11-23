@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brandonkargus
 - 👀 I’m interested in ... becoming a backend software developer
 - 🌱 I’m currently learning ... Java 11/17, Git, GitHub, MySQL/PostgreSQL, Spring Framework
-- 💞️ I’m looking to collaborate on ... anything and everything
+- 💞️ I’m looking to collaborate on ... anything and everything Java related
 - 📫 How to reach me ... brandonkargus@gmail.com
 
 <!---
