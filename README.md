@@ -1,6 +1,6 @@
-### Hi, I’m Brandon 👋 
+## Hi, I’m Brandon 👋 
 
-## I'm a world traveler, developer, musician, video game lover, and outdoor enthusiast!
+### I'm a world traveler, developer, musician, video game lover, and outdoor enthusiast!
 - 👀 I’m interested in ... becoming a backend software developer
 - 🌱 I’m currently working on... the CodingNomads Advanced Java and Spring course
 - 💞️ I’m looking to collaborate on ... anything and everything Java related
