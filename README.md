@@ -1,4 +1,5 @@
-## Hi, I’m Brandon 👋 
+## Hi, I’m Brandon 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<p align="center">
 
 ### I'm a world traveler, developer, musician, video game lover, and outdoor enthusiast!
 - 👀 I’m interested in ... becoming a backend software developer
