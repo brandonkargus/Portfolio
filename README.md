@@ -2,7 +2,7 @@
 <p align="center"> 
 
 ## I'm a world traveler, developer, musician, video game lover, and outdoor enthusiast!
-- 👀 I’m interested in ... becoming a backend software developer
+- 👀 I’m interested in... becoming a remote software developer
 - 🌱 I’m currently learning... Spring Boot
 - 👯 I’m looking to collaborate on... anything and everything Java related
 - 🔭 2022 Goals: Land my first full-time position as a software developer/engineer
