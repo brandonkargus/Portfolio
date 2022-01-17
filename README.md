@@ -1,7 +1,7 @@
 ## Hi, I'm Brandon <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center"> 
 
-## I'm a world traveler, developer, musician, video game lover, and outdoor enthusiast!
+## I'm a world traveler, developer, musician, gamer, and outdoor enthusiast!
 - 👀 I’m interested in... becoming a remote software developer
 - 🌱 I’m currently learning... Spring Framework
 - 👯 I’m looking to collaborate on... anything and everything Java related
