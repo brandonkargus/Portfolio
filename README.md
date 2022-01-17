@@ -8,7 +8,7 @@
 - 🔭 2022 Goals: Land my first full-time position as a software developer/engineer
 - ⚡Fun Fact: I've spent 8 months of my life in Antarctica!
  
-### Tech Stack:
+### My Tech Stack:
  
  <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
