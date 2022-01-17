@@ -34,7 +34,7 @@
  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 
-<img src="https://<HEROKU_INSTANCE_NAME>.herokuapp.com/api/spotify/now" />
+
 
 <!---
 brandonkargus/brandonkargus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
