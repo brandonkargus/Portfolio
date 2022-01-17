@@ -21,7 +21,7 @@
   <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
   
-<br />
+
  ### Connect with me:
 
  <a target="_blank" href="https://www.linkedin.com/in/brandon-kargus-61472338/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
