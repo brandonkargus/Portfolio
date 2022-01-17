@@ -26,7 +26,7 @@
 
   
 
- ### Connect with me:
+ ### 🤝🏻 Connect with me:
 
  <a target="_blank" href="https://www.linkedin.com/in/brandon-kargus-61472338/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
