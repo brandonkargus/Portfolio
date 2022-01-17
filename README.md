@@ -1,14 +1,14 @@
 # Hi, I'm Brandon <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center"> 
 
-### I'm a world traveler, developer, musician, video game lover, and outdoor enthusiast!
+## I'm a world traveler, developer, musician, video game lover, and outdoor enthusiast!
 - 👀 I’m interested in ... becoming a backend software developer
 - 🌱 I’m currently learning... Spring Boot
 - 👯 I’m looking to collaborate on... anything and everything Java related
 - 🔭 2022 Goals: Land my first full-time position as a software developer/engineer
 - ⚡Fun Fact: I've spent 8 months of my life in Antarctica!
  
-### Connect with me:
+## Connect with me:
 
  <a target="_blank" href="https://www.linkedin.com/in/brandon-kargus-61472338/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
@@ -18,7 +18,7 @@
 
 
 
-### Tech Stack:
+## Tech Stack:
  
  <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
