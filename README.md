@@ -4,7 +4,8 @@
  
 ## I'm a world traveler, developer, musician, gamer, and outdoor enthusiast!
 - 👀 I’m interested in... becoming a remote software developer
-- 🌱 I’m currently learning... Spring Framework
+- 🌱 I’m currently learning...  <a href="https://spring.io/projects/spring-framework"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
+  
 - 👯 I’m looking to collaborate on... anything and everything Java related
 - 🔭 2022 Goals: Land my first full-time position as a software developer/engineer
 - ⚡Fun Fact: I've spent 8 months of my life in Antarctica!
