@@ -1,7 +1,7 @@
 ## Hi, I'm Brandon <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center"> 
  
- ## ![Hi](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif) I'm Brandon
+ ## ![Hi](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif=29px) I'm Brandon
  
 
 ## I'm a world traveler, developer, musician, gamer, and outdoor enthusiast!
