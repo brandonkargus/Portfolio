@@ -23,7 +23,7 @@
   &emsp;
   <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
   &emsp;
-  <a href="https://www.markdownguide.org/"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
+  <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-9e04b8?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
   &emsp;
  
 
