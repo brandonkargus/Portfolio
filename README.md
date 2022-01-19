@@ -38,6 +38,8 @@
 <a target="_blank" href="mailto:brandonkargus@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
+<a target="_blank" href="mailto:brandonkargus@gmail.com">
+ <img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></img></a>
 
 
 
