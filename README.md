@@ -24,7 +24,7 @@
   &emsp;
   <a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-9e04b8?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=html&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html&logoColor=white"></a>
   &emsp;
  
  
