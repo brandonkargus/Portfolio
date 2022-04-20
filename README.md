@@ -8,7 +8,7 @@
   
 - 👯 I’m looking to collaborate on... anything and everything Java related
 - 🔭 2022 Goals: Land my first full-time position as a software developer/engineer
-- ⚡Fun Facts: I've spent 8 months of my life in Antarctica!  I can solve a Rubik's Cube in <= 5 mins.
+- ⚡Fun Facts: I've spent 8 months of my life in Antarctica and I can solve a Rubik's Cube in <= 5 mins!
  
 ### My Tech Stack:
  
