@@ -4,11 +4,11 @@
  
 ## I'm a world traveler, developer, musician, gamer, and outdoor enthusiast!
 - 👀 I’m interested in... becoming a software developer/engineer
-- 🌱 I’m currently learning...  <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>, Spanish, how to solve a Rubik's cube (Done!)
+- 🌱 I’m currently learning...  <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></a>, Spanish.
   
 - 👯 I’m looking to collaborate on... anything and everything Java related
 - 🔭 2022 Goals: Land my first full-time position as a software developer/engineer
-- ⚡Fun Fact: I've spent 8 months of my life in Antarctica!
+- ⚡Fun Facts: I've spent 8 months of my life in Antarctica!  I can solve a Rubik's Cube in <= 5 mins.
  
 ### My Tech Stack:
  
